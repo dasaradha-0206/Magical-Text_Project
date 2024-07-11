@@ -1,0 +1,65 @@
+.box{
+    width: 500px;
+    margin: 20px auto;
+    text-align: center;
+    border-radius: 20px;
+    background-color: rgb(189, 210, 212);
+    border: solid black;
+
+
+}
+input{
+    height: 40px;
+    width: 100%;
+    border-radius: 15px;
+    font-size: medium;
+    box-sizing: border-box;
+
+}
+.btn-box{
+    display: flex;
+    justify-content: space-between;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    margin: 15px ;
+
+}
+button{
+    background-color: green;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    margin: 15px ;
+    padding: 10px;
+
+}
+.output{
+    width: 250px;
+    border-radius: 15px;
+    text-align: center;
+    margin-left: 100px;
+}
+.capital{
+    text-transform: uppercase;
+}
+.lower{
+    text-transform: lowercase;
+}
+.firstcap{
+    text-transform: capitalize;
+}
+.italic{
+    font-style: italic;
+}
+.bolder{
+    font-weight: bolder;
+}
+.underline{
+    text-decoration: underline;
+}
+
+
+
+
+
